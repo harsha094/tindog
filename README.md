@@ -1,1 +1,2 @@
--- TinDog Website Project
+-- tinDog Website Project
+-- tindog is the new website helping dog lovers find like-minded friends for themselves and for their pooches.
